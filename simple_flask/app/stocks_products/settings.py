@@ -84,7 +84,7 @@ DATABASES = {
         'NAME': 'crud_stocks',
         'USER': 'postgres',
         'PASSWORD': '456124',
-        'HOST': '0.0.0.0',
+        'HOST': 'api-postgres',
         'PORT': '5432',
     }
 }
